@@ -39,7 +39,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="@id/homeTopView"
         tools:text = "25/03/2023"/>
-    
+
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideLine"
         android:layout_width="wrap_content"
