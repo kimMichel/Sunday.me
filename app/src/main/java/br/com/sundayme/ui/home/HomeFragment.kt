@@ -1,4 +1,4 @@
-package br.com.sundayme.ui
+package br.com.sundayme.ui.home
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

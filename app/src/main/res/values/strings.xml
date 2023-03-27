@@ -3,6 +3,10 @@
     <string name="app_title">S.U.N.D.A.Y</string>
 
     <!-- Home -->
-    <string name="homeButton">Create</string>
+    <string name="home_button">Create</string>
     <string name="home_dont_have_task">You don\'t have task yet! </string>
+
+    <!-- CreateTask -->
+    <string name="create_task_text">Boss! What can I do for you?</string>
+    <string name="create_task_text2">Remind me to:</string>
 </resources>
